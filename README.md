@@ -68,11 +68,11 @@ I hold an International Master's degree in Data Analytics from the **University 
 
 ## 🚀 Featured Projects
 
-Project write-ups are being prepared. More details will be added as projects are ready to share.
+Hands-on projects and learning experiments. Browse the [projects index](projects/README.md).
 
 - **SRP Project** — Project overview, architecture, tools, and contributions coming soon.
 - **Data Engineering & Analytics** — Selected data pipeline and analytics projects coming soon.
-- **AI Agent Applications** — Practical AI and agentic workflow projects coming soon.
+- [**GitHub API vs MCP**](projects/github-api-vs-mcp/README.md) — Compare a direct GitHub API client, a small FastAPI service, and an MCP server that exposes the same GitHub issue lookup.
 
 ---
 
