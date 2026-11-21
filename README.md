@@ -72,7 +72,7 @@ Hands-on projects and learning experiments. Browse the [projects index](projects
 
 - **SRP Project** — Project overview, architecture, tools, and contributions coming soon.
 - **Data Engineering & Analytics** — Selected data pipeline and analytics projects coming soon.
-- [**GitHub API vs MCP**](projects/github-api-vs-mcp/README.md) — Compare a direct GitHub API client, a small FastAPI service, and an MCP server that exposes the same GitHub issue lookup.
+- [**GitHub API vs MCP**](https://github.com/RameshKokati/github-api-vs-mcp) — Compare a direct GitHub API client, a small FastAPI service, and an MCP server that exposes the same GitHub issue lookup.
 
 ---
 
